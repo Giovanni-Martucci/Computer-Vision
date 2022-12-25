@@ -3,4 +3,7 @@
 
 In questa sezione sono presenti diverti algoritmi di Computer Vision: 
 
-  - Calibrazione 
+  - Calibrazione;
+  - Creazione un sistema stereoscopico;
+  - Misurazione di oggetti reali;
+  - Texture Classification.
