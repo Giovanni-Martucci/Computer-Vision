@@ -1,9 +1,9 @@
 # Computer-Vision
 
 
-In questa sezione sono presenti diverti algoritmi di Computer Vision: 
+In this section, there are several fun Computer Vision algorithms:
 
-  - Calibrazione camere;
-  - Creazione un sistema stereoscopico;
-  - Misurazione di oggetti reali;
-  - Texture Classification.
+- Camera Calibration;
+- Creating a stereoscopic system;
+- Measurement of real objects;
+- Texture Classification.
